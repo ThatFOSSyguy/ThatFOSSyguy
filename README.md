@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am ThatFOSSyguy</h1>
+<h1 align="center">Hello there 👋, I am ThatFOSSyguy</h1>
 <h3 align="center">I'm a Machine Learning Student.</h3>
 
 <br>
