@@ -1,10 +1,10 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hello world👋, I am ThatFOSSyguy</h1>
-<h3 align="center">I'm a Machine Learning Student.</h3>
+<h3 align="center">I'm a Machine Learning Student👨‍🎓.</h3>
 
 <br>
-Hi! I'm a Machine Learning student who believes in the good morals of open-source, trust-less software. I got inspired by the
+Hi! I'm ThatFOSSyguy and as I've mentioned before, I'm a Machine Learning student🤖 who believes in the good morals of open-source, trust-less software. I got inspired by the
 YouTubers <a href="https://www.youtube.com/channel/UCjr2bPAyPV7t35MvcgT3W8Q">TheHatedOne</a>, <a href="https://www.youtube.com/user/MentalOutlawStudios">Mental Outlaw</a> and <a
 href="https://www.youtube.com/channel/UCs6KfncB4OV6Vug4o_bzijg">Techlore</a> to take the E P I C turn to the open-source world.
 
