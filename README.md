@@ -2,10 +2,6 @@
 
 # 💖Languages I love
 + Python
-+ C
-+ C++
-+ MATLAB
-+ Go
 
 # 📈Some statistics
 
