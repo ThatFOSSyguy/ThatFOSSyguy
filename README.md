@@ -1,7 +1,9 @@
 <h1 align="center">Hello there👋, I am ThatFOSSyguy</h1>
 
-# 💖Languages I love
-+ Python
+# 💖 Technologys I love
+- HTML
+- CSS
+- JavaScript
 
 # 📈Some statistics
 
